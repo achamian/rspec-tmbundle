@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it "should ${1:do something}"${2: do
-  $0
-end}</string>
+	<string>and_return($1)$0</string>
 	<key>name</key>
-	<string>it (should do something)</string>
+	<string>and_return</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>it</string>
+	<string>anre</string>
 	<key>uuid</key>
-	<string>ED8BDE00-5FD7-4E47-84FD-4B971557FD73</string>
+	<string>8F895E55-D9B8-46B1-A290-9205E1230EC1</string>
 </dict>
 </plist>
